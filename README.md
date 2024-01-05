@@ -1,2 +1,0 @@
-# Game
-Rock,Paper,Scissers
